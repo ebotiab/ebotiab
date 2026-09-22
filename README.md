@@ -4,7 +4,7 @@
 
 I build Python backends, APIs and data pipelines, with a focus on applied AI: document processing, retrieval-augmented generation (RAG) and evaluation. My background combines software engineering with machine learning research.
 
-[Portfolio](https://ebotiab.github.io/) · [LinkedIn](https://www.linkedin.com/in/enrique-botia-barbera/)
+[Portfolio](https://ebotiab.github.io/en/) · [LinkedIn](https://www.linkedin.com/in/enrique-botia-barbera/)
 
 ## Open-source contributions
 
@@ -32,4 +32,4 @@ Selected contributions merged into upstream projects:
 
 BSc in Data Science and Engineering and MSc in Machine Learning for Health, Universidad Carlos III de Madrid.
 
-My public repositories include independent tools, research projects and open-source contributions. For professional experience and contact details, visit my [portfolio](https://ebotiab.github.io/).
+My public repositories include independent tools, research projects and open-source contributions. For professional experience and contact details, visit my [portfolio](https://ebotiab.github.io/en/).
