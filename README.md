@@ -1,6 +1,6 @@
 # Enrique Botía Barberá
 
-**Python backend · Applied AI · Data pipelines**
+**Applied AI · Automation · Python backend**
 
 I build Python backends, APIs and data pipelines, with a focus on applied AI: document processing, retrieval-augmented generation (RAG) and evaluation. My background combines software engineering with machine learning research.
 
